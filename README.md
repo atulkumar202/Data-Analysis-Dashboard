@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-Madhav Ecommerce Sales Dashboard built using Microsoft Power BI provides insights into sales, profit, quantity, and customer behavior. It includes state-wise analysis, category distribution, monthly profit trends, payment mode breakdown, and sub-category performance to support data-driven business decisions.
+Madhav Ecommerce Sales Dashboard
+Overview
+
+The Madhav Ecommerce Sales Dashboard is an interactive data visualization project built using Microsoft Power BI. This dashboard analyzes ecommerce performance by tracking sales, profit, quantity sold, customer behavior, and payment trends. It helps in identifying high-performing products, regions, and time periods to support data-driven decision-making.
